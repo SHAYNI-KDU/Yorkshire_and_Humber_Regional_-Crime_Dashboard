@@ -101,8 +101,9 @@ The Yorkshire & Humber Regional Crime Dashboard transforms raw police data into 
 
 
 ##  Contributors
-Group Assignment – SQL for Data Science (LB1224)  
-BSc in Applied Data Science and Communication  
-General Sir John Kotelawala Defence University
+- Course: SQL for Data Science (LB1224)
+- Program: BSc in Applied Data Science Communication
+- University: General Sir John Kotelawala Defence University
+- Team Members: D.P. Chami Sadunika, M.M.C.C. Marasinghe, E.S.R. Ruparathna, W.D.S.N. Kulasooriya
 
 
